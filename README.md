@@ -25,3 +25,5 @@ Included Shaders:
 
 Disclaimer: I do not own any of these files.
 
+Curseforge profiles:
+- sangmon
